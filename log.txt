@@ -1,0 +1,58 @@
+[2024-11-22 14:15:36] - INICIALIZACAO ACE - Início do log
+[2024-11-22 14:15:36] - Inicializacao - ACE inicializado
+[2024-11-22 14:15:42] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 14:15:49] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 14:16:10] - Movimentacao do Estoque - o produto :A005 teve uma saída de 3
+[2024-11-22 14:16:24] - Encerramento - ACE encerrado
+[2024-11-22 14:17:13] - INICIALIZACAO ACE - Início do log
+[2024-11-22 14:17:13] - Inicializacao - ACE inicializado
+[2024-11-22 14:17:59] - Encerramento - ACE encerrado
+[2024-11-22 17:04:21] - INICIALIZACAO ACE - Início do log
+[2024-11-22 17:04:21] - Inicializacao - ACE inicializado
+[2024-11-22 17:04:26] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 17:04:33] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 17:04:46] - ADICIONAR - Produto 10 adicionado.
+[2024-11-22 17:05:45] - Encerramento - ACE encerrado
+[2024-11-22 17:05:50] - INICIALIZACAO ACE - Início do log
+[2024-11-22 17:05:50] - Inicializacao - ACE inicializado
+[2024-11-22 17:06:15] - ADICIONAR - Produto 11 adicionado.
+[2024-11-22 17:06:44] - Remover - {'codigo': '11', 'nome': 'Teste 2', 'categoria': 'Testes', 'valor_unitario': 10.0, 'qtde_minimaestoque': np.int64(101), 'saldo_estoque': np.int64(100)}
+[2024-11-22 17:06:44] - DELETAR - Produto 11 deletado com sucesso.
+[2024-11-22 17:06:54] - Remover - {'codigo': '10', 'nome': 'Testes', 'categoria': 'Testes', 'valor_unitario': 10.0, 'qtde_minimaestoque': np.int64(10), 'saldo_estoque': np.int64(10)}
+[2024-11-22 17:06:54] - DELETAR - Produto 10 deletado com sucesso.
+[2024-11-22 17:06:56] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 17:07:04] - BUSCA - Buscando produto para atualização com código 
+[2024-11-22 17:07:07] - BUSCA - Buscando produto com código -1
+[2024-11-22 17:07:44] - BUSCA - Buscando produto para atualização com código 
+[2024-11-22 23:28:07] - INICIALIZACAO ACE - Início do log
+[2024-11-22 23:28:07] - Inicializacao - ACE inicializado
+[2024-11-22 23:28:11] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 23:28:21] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 23:28:27] - BUSCA - Buscando produto para atualização com código 
+[2024-11-22 23:28:30] - BUSCA - Buscando produto com código -1
+[2024-11-22 23:28:31] - BUSCA - Buscando produto para atualização com código 
+[2024-11-22 23:28:32] - BUSCA - Buscando produto com código 
+[2024-11-22 23:28:32] - BUSCA - Buscando produto para atualização com código 
+[2024-11-22 23:28:37] - BUSCA - Buscando produto com código exit
+[2024-11-22 23:28:38] - BUSCA - Buscando produto para atualização com código 
+[2024-11-22 23:32:51] - INICIALIZACAO ACE - Início do log
+[2024-11-22 23:32:51] - Inicializacao - ACE inicializado
+[2024-11-22 23:35:58] - INICIALIZACAO ACE - Início do log
+[2024-11-22 23:35:58] - Inicializacao - ACE inicializado
+[2024-11-22 23:36:02] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 23:36:23] - BUSCA - Buscando produto com código A005
+[2024-11-22 23:36:25] - ATUALIZAR - Produto A005 atualizado com sucesso.
+[2024-11-22 23:36:32] - BUSCA - Buscando produto com código 
+[2024-11-22 23:39:31] - BUSCA - Buscando produto com código 
+[2024-11-22 23:41:50] - Encerramento - ACE encerrado
+[2024-11-22 23:41:51] - INICIALIZACAO ACE - Início do log
+[2024-11-22 23:41:51] - Inicializacao - ACE inicializado
+[2024-11-22 23:42:18] - LISTAR - Produtos listados com sucesso.
+[2024-11-22 23:43:51] - Encerramento - ACE encerrado
+[2024-11-22 23:43:53] - INICIALIZACAO ACE - Início do log
+[2024-11-22 23:43:53] - Inicializacao - ACE inicializado
+[2024-11-22 23:43:58] - ERRO - Erro sem tratamento: name 'time' is not defined
+[2024-11-22 23:43:58] - Encerramento - ACE encerrado
+[2024-11-22 23:44:25] - INICIALIZACAO ACE - Início do log
+[2024-11-22 23:44:25] - Inicializacao - ACE inicializado
+[2024-11-22 23:44:35] - Encerramento - ACE encerrado
